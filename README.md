@@ -1,5 +1,7 @@
 # Snake Game 🐍
 
+![Snake Game](screenshot.png)
+
 Jogo clássico da cobrinha desenvolvido em Python utilizando Pygame.
 
 ## 🎮 Funcionalidades
